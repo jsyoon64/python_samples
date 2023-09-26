@@ -1,0 +1,3 @@
+jupyter notebook
+후에 http://localhost:8888로 접속
+만일 비밀번호 물어보면 1111 or 111
